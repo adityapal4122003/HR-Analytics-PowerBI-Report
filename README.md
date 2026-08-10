@@ -1,10 +1,10 @@
-# HR Analytics Dashboard – Power BI
+# HR Analytics Report – Power BI
 
 ## 📊 Project Overview
 
-This project is an interactive HR Analytics Dashboard developed using Microsoft Power BI.
+This project is an interactive HR Analytics Report developed using Microsoft Power BI.
 
-The dashboard analyzes employee data to identify workforce trends, employee attrition patterns, salary distribution, job roles, demographics, and other key HR metrics.
+The report analyzes employee data to identify workforce trends, employee attrition patterns, salary distribution, job roles, demographics, and other key HR metrics.
 
 ## 🛠️ Tools Used
 
@@ -53,8 +53,8 @@ The objective of this project is to transform HR data into meaningful business i
 
 ## 📁 Project Files
 
-- `HR_Analytics_Dashboard.pbix` – Power BI report
-- `Screenshots/` – Dashboard screenshots
+- `HR_Analytics_report.pbix` – Power BI report
+- `Screenshots/` – Report screenshots
 - `README.md` – Project documentation
 
 ## 👨‍💻 Author
